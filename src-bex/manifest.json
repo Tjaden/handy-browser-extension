@@ -25,6 +25,10 @@
         "https://www.ivdb.io/*",
         "https://www.pornhub.com/view_video.php?viewkey=*",
         "https://www.pornhub.com/embed/*",
+        "https://www.pornhub.org/view_video.php?viewkey=*",
+        "https://www.pornhub.org/embed/*",
+        "https://de.pornhub.org/view_video.php?viewkey=*",
+        "https://de.pornhub.org/embed/*",
         "https://thebenefitmonkey.com/members/scenes/*",
         "https://site-ma.brazzers.com/scene/*"
       ],
@@ -50,7 +54,11 @@
     {
       "matches": [
         "https://www.pornhub.com/view_video.php?viewkey=*",
-        "https://www.pornhub.com/embed/*"
+        "https://www.pornhub.com/embed/*",
+        "https://www.pornhub.org/view_video.php?viewkey=*",
+        "https://www.pornhub.org/embed/*",
+        "https://de.pornhub.org/view_video.php?viewkey=*",
+        "https://de.pornhub.org/embed/*"
       ],
       "all_frames": true,
       "run_at": "document_idle",
